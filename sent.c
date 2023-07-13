@@ -12,3 +12,13 @@ int main()
 	printf("%s", sen);
 	return 0;
 }*/
+#include <stdio.h>
+  
+// Driver code
+int main()
+{
+    char sen[100];
+    scanf("%[^\n]s", sen);
+    printf("Output : %s", sen);
+    return 0;
+}
