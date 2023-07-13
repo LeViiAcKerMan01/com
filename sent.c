@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 int main()
 {
 	char ch;// C
@@ -8,7 +8,7 @@ int main()
 	printf("%c\n", ch);
 	scanf("%s\n", s);
 	printf("%s\n", s);
-	scanf("%[^\n]", sen);// Use scanset to input sentence!
+	scanf("%[^\n]s", sen);// Use scanset to input sentence!
 	printf("%s", sen);
 	return 0;
-}
+}*/
